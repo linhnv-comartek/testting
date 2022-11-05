@@ -4,10 +4,6 @@ My name is computer
 
 How old are you
 
-I'm sick
-
-Can you tell me, what is running in that
-I'm fine thank you, and you
-I'm fine thank you, and you
+I'm fine say 1111
 
 feature say hi
